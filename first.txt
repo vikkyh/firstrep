@@ -2,7 +2,8 @@ this is for the practing git and github for gain knowladge for my improvment.
 new adding
 sec time i added
 this this for new branch ok.
-
+/// this is now ok
+by mistek
 
 affter adding sec new branch.
- it ok sunny all it fine to it so coll.
+ newsecbranch add it .it ok sunny all it fine to it so coll. main
